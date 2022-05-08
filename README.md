@@ -3,6 +3,7 @@
 ### At the moment
 - Learning Web3 and Blockchain Technology
 - Learning React and Javascript
+- Contributing to https://Dappify.com
 - Contributing to kwenta.io as bounty hunter
 - participating in blockchain hackathons (chainlink22)
 - Founder of Swiss Dao https://swiss-dao.eth.link

@@ -5,7 +5,7 @@
 - Learning React and Javascript
 - Contributing to kwenta.io as bounty hunter
 - participating in blockchain hackathons (chainlink22)
-- Founder of Swiss Dao swiss-dao.eth.link
+- Founder of Swiss Dao https://swiss-dao.eth.link
 
 ### Previously
 - Studied Biology and Computational Sciences UZH

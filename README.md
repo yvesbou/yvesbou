@@ -1,4 +1,21 @@
-### Hi there 👋
+## About me 👋
+
+### At the moment
+- Learning Web3 and Blockchain Technology
+- Learning React and Javascript
+- Contributing to kwenta.io as bounty hunter
+- participating in blockchain hackathons (chainlink22)
+
+### Previously
+- Studied Biology and Computational Sciences UZH
+- Programmed a commerce Flutter App for Android Tablet
+
+### Knowledge 
+- Machine Learning
+- Scientific programming
+- Python
+- R
+
 
 <!--
 **yvesbou/yvesbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 - Founder of Swiss Dao https://swiss-dao.eth.link
 
 ### Previously
-- Studied Biology and Computational Sciences UZH
+- BSc. Biology and Computational Sciences at University of Zurich
 - Programmed a commerce Flutter App for Android Tablet
 
 ### Knowledge 

@@ -2,7 +2,7 @@
 
 ### At the moment
 - Learning Web3 and Blockchain Technology
-- Learning React and Javascript
+- Learning React, Javascript, Solidity
 - Contributing to https://Dappify.com
 - Contributing to kwenta.io as bounty hunter
 - participating in blockchain hackathons

@@ -6,7 +6,7 @@
 - Contributing to https://Dappify.com
 - Contributing to kwenta.io as bounty hunter
 - participating in blockchain hackathons
-  - Chainlink Spring 2022 (Top40)
+  - Chainlink Spring 2022 (Top40) - https://github.com/Everest-Option-Exchange-Team
 - Founder of Swiss Dao https://swiss-dao.eth.link
 
 ### Previously

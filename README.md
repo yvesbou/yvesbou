@@ -5,7 +5,8 @@
 - Learning React and Javascript
 - Contributing to https://Dappify.com
 - Contributing to kwenta.io as bounty hunter
-- participating in blockchain hackathons (chainlink22)
+- participating in blockchain hackathons
+  - Chainlink Spring 2022 (Top40)
 - Founder of Swiss Dao https://swiss-dao.eth.link
 
 ### Previously

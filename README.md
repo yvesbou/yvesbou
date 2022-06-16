@@ -8,6 +8,7 @@
 - participating in blockchain hackathons
   - Chainlink Spring 2022 (Top40) - https://github.com/Everest-Option-Exchange-Team
 - Founder of Swiss Dao https://swiss-dao.eth.link
+- Seeking and Sharing Knowledge: https://stackoverflow.com/users/12171521/yves-boutellier
 
 ### Previously
 - BSc. Biology and Computational Sciences at University of Zurich

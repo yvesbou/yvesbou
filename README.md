@@ -7,7 +7,7 @@
 - Contributing to kwenta.io as Bounty Hunter
 - Participating in Blockchain Hackathons
   - Chainlink Spring 2022 (Top40) - https://github.com/Everest-Option-Exchange-Team
-- Founder of Swiss Dao https://swiss-dao.eth.link
+- Founder of Swiss Dao https://linktr.ee/swissdao
 - Seeking and Sharing Knowledge
   - https://stackoverflow.com/users/12171521/yves-boutellier
   - https://yvesboutellier.medium.com/

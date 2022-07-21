@@ -1,4 +1,6 @@
-## About me 👋
+## Yves Boutellier 👋
+
+📫 How to reach me: https://twitter.com/boutellier_yves
 
 ### At the moment
 - Learning Web3 and Blockchain Technology
@@ -14,16 +16,6 @@
 
 ### Previously
 - BSc. Biology and Computational Sciences at University of Zurich
-- Programmed a commerce Flutter App for Android Tablet
-
-### Appliable Knowledge from University
-- Machine Learning
-- Scientific programming
-- Maths
-- Statistics
-- Python
-- R
-
 
 <!--
 **yvesbou/yvesbou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

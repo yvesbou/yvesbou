@@ -1,4 +1,4 @@
-## Yves Boutellier 👋
+## About 👋
 
 📫 How to reach me: https://twitter.com/boutellier_yves
 

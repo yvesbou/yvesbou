@@ -5,15 +5,15 @@
 ### At the moment
 - Learning Web3 and Blockchain Technology
 - Learning React, Javascript, Solidity
-- Contributing to https://Dappify.com
-- Contributing to kwenta.io as Bounty Hunter
 - Participating in Blockchain Hackathons
   - Chainlink Spring 2022 (Top40) - https://github.com/Everest-Option-Exchange-Team
   - ETH Warsaw 2022 - https://devpost.com/software/zk-rent
-- Seeking and Sharing Knowledge
+
+### Seeking and Sharing Knowledge
   - https://stackoverflow.com/users/12171521/yves-boutellier
   - https://yvesboutellier.medium.com/
-- Care about Community and Web3 Adoption
+
+### Care about Community and Web3 Adoption
   - Swiss Dao https://linktr.ee/swissdao
 
 ### Previously

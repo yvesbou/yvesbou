@@ -9,11 +9,11 @@
   - Chainlink Spring 2022 (Top40) - https://github.com/Everest-Option-Exchange-Team
   - ETH Warsaw 2022 - https://devpost.com/software/zk-rent
 
-### Seeking and Sharing Knowledge
+### I share my experience and knowledge - not scared to ask questions in public
   - https://stackoverflow.com/users/12171521/yves-boutellier
   - https://yvesboutellier.medium.com/
 
-### Care about Community and Web3 Adoption
+### I care about Community and Web3 Adoption
   - Swiss Dao https://linktr.ee/swissdao
 
 ### Previously

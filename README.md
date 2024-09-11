@@ -1,12 +1,10 @@
-## About 👋
+## HI 👋
 
 📫 How to reach me: https://twitter.com/boutellier_yves
 
 ### At the moment
-- Working for CEVEN
-
-### I care about Community and Web3 Adoption
-- Swiss Dao https://linktr.ee/swissdao
+- Smart Contract and Fullstack at [Ultrasound.dev](https://ultrasound.dev)
+- Co-Founder at [swissDAO](https://x.com/swissDAOspace)
 
 ### Previously
 - BSc. Biology and Computational Sciences at University of Zurich

@@ -2,7 +2,7 @@
 
 📫 How to reach me: https://twitter.com/boutellier_yves
 
-### At the moment
+### Currently
 - Smart Contract and Fullstack at [Ultrasound.dev](https://ultrasound.dev)
 - Co-Founder at [swissDAO](https://x.com/swissDAOspace)
 

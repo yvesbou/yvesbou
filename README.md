@@ -4,6 +4,7 @@
 
 ### Currently
 - Smart Contract and Fullstack at [Ultrasound.dev](https://ultrasound.dev)
+- Contributor for the [DeFi Collective](https://deficollective.org)
 - Co-Founder at [swissDAO](https://x.com/swissDAOspace)
 
 ### Previously
